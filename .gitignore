@@ -1,0 +1,10 @@
+/var/*
+/pub/static/*
+/vendor/*
+.htaccess
+composer.json
+composer.lock
+/app/etc/env.php
+/app/etc/vendor_path.php
+/app/etc/di.xml
+/generated
